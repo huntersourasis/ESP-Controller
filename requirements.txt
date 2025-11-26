@@ -1,0 +1,4 @@
+configparser
+requests
+pyfiglet
+colorama
